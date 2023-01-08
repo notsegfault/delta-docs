@@ -14,7 +14,7 @@ Follow the steps below.
 
 <figure><img src="https://web.archive.org/web/20210928105634im_/https://gblobscdn.gitbook.com/assets%2F-MWZptP2x2EQRB4un4qd%2F-MWqHskDPnAvk50j9Prk%2F-MWqxCDB4NA_66nVvzeP%2Fimage.png?alt=media&#x26;token=3de852fe-cdbd-4710-9052-5572afccae19" alt=""><figcaption></figcaption></figure>
 
-Go to [delta.financial](https://web.archive.org/web/20210928105634/https://delta.financial/) and click on the black "Connect Wallet" button.
+Go to [delta.financial](https://delta.financial/) and click on the black "Connect Wallet" button.
 
 <figure><img src="https://web.archive.org/web/20210928105634im_/https://gblobscdn.gitbook.com/assets%2F-MWZptP2x2EQRB4un4qd%2F-MWpoMviD5jAuq-y07SE%2F-MWpsistczOQ2Bd2VpxT%2Fimage.png?alt=media&#x26;token=2fab32b1-72bb-4064-8d61-972ec9572d5d" alt=""><figcaption></figcaption></figure>
 

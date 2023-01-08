@@ -22,7 +22,7 @@ If the booster is not maintained, it will decrease each week by 3 points. There 
 
 #### **Burn Deposit:** <a href="#burn-deposit" id="burn-deposit"></a>
 
-A Burn deposit allows its user to start staking Delta with a 10x Booster. Using this mechanism, [permanently locks](https://web.archive.org/web/20211023235338/https://docs.delta.financial/guides/staking-delta#permanently-locked-delta) 50% of the deposit in the Deep Farming Vault the rest of the deposit is staked as usual.
+A Burn deposit allows its user to start staking Delta with a 10x Booster. Using this mechanism, [permanently locks](https://docs.delta.financial/guides/staking-delta#permanently-locked-delta) 50% of the deposit in the Deep Farming Vault the rest of the deposit is staked as usual.
 
 #### **Compound Deposit:** <a href="#compound-deposit" id="compound-deposit"></a>
 

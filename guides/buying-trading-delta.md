@@ -14,7 +14,7 @@ Go to delta.financial and connect your wallet by clicking on "Connect Wallet" in
 
 <figure><img src="https://web.archive.org/web/20210921202704im_/https://gblobscdn.gitbook.com/assets%2F-MWZptP2x2EQRB4un4qd%2F-MWq-fNbDsz3GveGK5Qx%2F-MWq0lI-kpS8WvLmERDq%2Fvesting%20schedule.png?alt=media&#x26;token=07f7c451-2fe2-40bf-9e09-03180e7ed993" alt=""><figcaption></figcaption></figure>
 
-On the main page scroll down to the Delta Vesting Schedule section. Click on the Trade Delta button to be taken to the Sushiswap exchange. You can purchase Delta with Ethereum on Sushiswap. After your purchase, do not be alarmed that your wallet received 10% of the original purchase. This is due to [Delta's Vesting Schedule](https://web.archive.org/web/20210921202704/https://docs.delta.financial/delta-ecosystem/vesting-schedule).
+On the main page scroll down to the Delta Vesting Schedule section. Click on the Trade Delta button to be taken to the Sushiswap exchange. You can purchase Delta with Ethereum on Sushiswap. After your purchase, do not be alarmed that your wallet received 10% of the original purchase. This is due to [Delta's Vesting Schedule](https://delta-financial.gitbook.io/delta-document-portal/vesting-schedule).
 
 ### Delta Vesting Schedule <a href="#delta-vesting-schedule" id="delta-vesting-schedule"></a>
 

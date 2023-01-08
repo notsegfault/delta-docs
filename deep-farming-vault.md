@@ -6,11 +6,16 @@ The Deep Farming Vault (DFV) is used to generate yield on staked Delta and rLP t
 
 Users can stake the following tokens in the Deep Farming Vault:
 
-* rLPDelta
+* rLP
+* Delta
 
 ### Farming Power <a href="#farming-power" id="farming-power"></a>
 
-Each user in the Deep Farming Vault is allocated farming power. This value dictates the amount of yield received.Farming Power = (rLP\*ratio)+(stakedDelta\*Booster)FarmingPower=(rLP∗ratio)+(stakedDelta∗Booster)_ratio= 200_
+Each user in the Deep Farming Vault is allocated farming power. This value dictates the amount of yield received.
+
+$$
+Farming Power = (rLP*ratio) + (stakedDelta*Booster) FarmingPower = (rLP∗ratio) + (stakedDelta∗Booster) ratio = 200
+$$
 
 ### **Booster** <a href="#booster" id="booster"></a>
 
@@ -22,7 +27,7 @@ If the booster is not maintained, it will decrease each week by 3 points. There 
 
 #### **Burn Deposit:** <a href="#burn-deposit" id="burn-deposit"></a>
 
-A Burn deposit allows its user to start staking Delta with a 10x Booster. Using this mechanism, [permanently locks](https://web.archive.org/web/20211023235338/https://docs.delta.financial/guides/staking-delta#permanently-locked-delta) 50% of the deposit in the Deep Farming Vault the rest of the deposit is staked as usual.
+A Burn deposit allows its user to start staking Delta with a 10x Booster. Using this mechanism, [permanently locks 50%](guides/staking-delta.md) of the deposit in the Deep Farming Vault the rest of the deposit is staked as usual.
 
 #### **Compound Deposit:** <a href="#compound-deposit" id="compound-deposit"></a>
 
@@ -36,7 +41,10 @@ The compound burn feature allows its user to maintain or upgrade their booster b
 
 The yield generated from the Deep Farming Vault comes from vesting schedule interruptions and is paid out in Delta and Ethereum. 20% of all yield is distributed in Ethereum while the remaining 80% is distributed as Delta:**Deep Farming VaultCORE ecosystemDev Fund**Burned56% Delta 5% Ethereum-5% Ethereum8% Delta 10% Ethereum16% Delta​
 
-### ​### TABLE GOES HERE ### <a href="#undefined" id="undefined"></a>
+| Deep Farming Vault | CORE ecosystem | Dev Fund     | Burned    |
+| ------------------ | -------------- | ------------ | --------- |
+| 56% Delta          | -              | 8% Delta     | 16% Delta |
+| 5% Ethereum        | 5% Ethereum    | 10% Ethereum | -         |
 
 ## Deep Farming Vault Withdrawal Process: <a href="#deep-farming-vault-withdrawal-process" id="deep-farming-vault-withdrawal-process"></a>
 
@@ -57,12 +65,15 @@ Vault deposits, rLP withdrawals and the "UNSTAKE ALL" button, automatically clai
 
 #### Delta Staking Rewards: <a href="#delta-staking-rewards" id="delta-staking-rewards"></a>
 
-When claiming Delta rewards, a withdrawal contract is created which starts a one year vesting cycle for the staking rewards. Boosters for staked Delta are lost when the Delta withdrawal process is started.Delta is continuously maturing in that contract throughout the year. The user has the option to prematurely claim the Delta rewards, in this case, the immature Delta will be lost (distributed back to the Deep Farming Vault).
+When claiming Delta rewards, a withdrawal contract is created which starts a **one year vesting cycle** for the staking rewards. Boosters for staked Delta are lost when the Delta withdrawal process is started.Delta is continuously maturing in that contract throughout the year. The user has the option to prematurely claim the Delta rewards, in this case, the immature Delta will be lost (distributed back to the Deep Farming Vault).
 
 ### Withdrawal Contract: <a href="#withdrawal-contract" id="withdrawal-contract"></a>
 
-When unstaking Delta or claiming Delta rewards, a withdrawal contract is created which starts a one year vesting cycle for the staking rewards and a 14 days maturing cycle for the staked Delta.Upon finalizing the withdrawal, the user receives:
+When unstaking Delta or claiming Delta rewards, a withdrawal contract is created which starts a one year vesting cycle for the staking rewards and a 14 days maturing cycle for the staked Delta.
 
-* 5% of the total Rewardsmature Delta
+Upon finalizing the withdrawal, the user receives:
+
+* 5% of the total Rewards
+* Mature Delta
 
 You may withdraw your principle after 14 days.

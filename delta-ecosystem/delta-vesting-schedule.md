@@ -12,27 +12,29 @@ To make sure you have a good understanding on how Delta and its vesting schedule
 
 ### Initial purchase of Delta: <a href="#initial-purchase-of-delta" id="initial-purchase-of-delta"></a>
 
-<figure><img src="https://web.archive.org/web/20210921205814im_/https://gblobscdn.gitbook.com/assets%2F-MWZptP2x2EQRB4un4qd%2F-MWZqFG9_AQu5KfuqzKk%2F-MW_1pkSYS-aIV2YP4Xr%2F1.gif?alt=media&#x26;token=d6b2cc90-bb33-4f6d-9c00-92a23e3b4faa" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (1).png" alt=""><figcaption></figcaption></figure>
 
 Each Delta token houses the information of a vesting schedule. When Delta is transferred this vesting schedule is activated. In this example the user purchases Delta from the Uniswap Bonding Curve. This transfer activates the internal vesting schedule for the purchased tokens.
 
 ### Delta’s Vesting Schedule activates <a href="#deltas-vesting-schedule-activates" id="deltas-vesting-schedule-activates"></a>
 
-<figure><img src="https://web.archive.org/web/20210921205814im_/https://gblobscdn.gitbook.com/assets%2F-MWZptP2x2EQRB4un4qd%2F-MWZqFG9_AQu5KfuqzKk%2F-MW_2DZF3IGixgTaY7AH%2F2.gif?alt=media&#x26;token=071fc80f-f5f6-48b9-91d2-004205d5d549" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}
+The vesting schedule is based on a block number schedule which is roughly 14 days long.
+{% endhint %}
 
-The vesting schedule is based on a block number schedule which is roughly 14 days long. When a user purchases Delta, 10% of the total token balance is sent to the user’s wallet, while the remaining 90% is locked in the Delta Vesting Contract. The locked Delta is unlocked linearly over the next 14 days.
+When a user purchases Delta, 10% of the total token balance is sent to the user’s wallet, while the remaining 90% is locked in the Delta Vesting Contract. The locked Delta is unlocked linearly over the next 14 days.
 
 Throughout this period the wallet will receive more and more Delta tokens until the initial purchase is available in the User’s wallet.
 
 **Example:**
 
-> _User A buys 100 Delta on Uniswap. The wallet receives 10 Delta while the rest of the purchase is locked. During the next 14 days his wallet will receive the remaining tokens which unlock linearly. On the second day, the Delta inside User A’s wallet has grown from 10 Delta to 16 Delta. This process will continue until all the initially purchased tokens are received by the wallet. On day 14 User A’s wallet holds 100 Delta._
+> _User A buys 100 Delta on Sushiswap. The wallet receives 10 Delta while the rest of the purchase is locked. During the next 14 days his wallet will receive the remaining tokens which unlock linearly. On the second day, the Delta inside User A’s wallet has grown from 10 Delta to 16 Delta. This process will continue until all the initially purchased tokens are received by the wallet. On day 14 User A’s wallet holds 100 Delta._
 
 ### Canceling the Vesting Schedule <a href="#canceling-the-vesting-schedule" id="canceling-the-vesting-schedule"></a>
 
-<figure><img src="https://web.archive.org/web/20210921205814im_/https://gblobscdn.gitbook.com/assets%2F-MWZptP2x2EQRB4un4qd%2F-MWZqFG9_AQu5KfuqzKk%2F-MW_2h_HG5ATiF56py8y%2F3.gif?alt=media&#x26;token=2c53efca-f2a8-4fa2-93ec-d6eefba01c45" alt=""><figcaption></figcaption></figure>
-
+{% hint style="danger" %}
 A token transfer cancels the vesting schedule and the remaining locked tokens get distributed to the Vault as staking rewards.
+{% endhint %}
 
 **Example:**
 

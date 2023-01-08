@@ -16,7 +16,8 @@
 
 * [Mint rLP](guides/mint-rlp.md)
 * [Buying/Trading Delta](guides/buying-trading-delta.md)
-* [How to stake rLP tokens](guides/how-to-stake-rlp-tokens.md)
+* [Stake rLP tokens](guides/stake-rlp-tokens.md)
 * [Staking Delta](guides/staking-delta.md)
 * [Claim Referral Bonus](guides/claim-referral-bonus.md)
 * [Claim rLP from LSW](guides/claim-rlp-from-lsw.md)
+* [Claim Rewards](guides/claim-rewards.md)

@@ -25,7 +25,7 @@ The Deep Farming Vault has a booster for staked Delta. This booster varies from 
 
 If the booster is not maintained, it will decrease each week by 3 points. There is a one week grace period after each drop which allows the user to get back to its original booster value **** +1. Only when 10% of the principle is deposited within the grace period and using compound burn or burn deposit.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2022-03-09_22-31-14.jpg" alt=""><figcaption></figcaption></figure>
 
 #### **Burn Deposit:** <a href="#burn-deposit" id="burn-deposit"></a>
 

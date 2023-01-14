@@ -26,6 +26,8 @@ When a user purchases Delta, 10% of the total token balance is sent to the user�
 
 Throughout this period the wallet will receive more and more Delta tokens until the initial purchase is available in the User’s wallet.
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-01-12 102231.png" alt=""><figcaption></figcaption></figure>
+
 **Example:**
 
 > _User A buys 100 Delta on Sushiswap. The wallet receives 10 Delta while the rest of the purchase is locked. During the next 14 days his wallet will receive the remaining tokens which unlock linearly. On the second day, the Delta inside User A’s wallet has grown from 10 Delta to 16 Delta. This process will continue until all the initially purchased tokens are received by the wallet. On day 14 User A’s wallet holds 100 Delta._
@@ -41,6 +43,8 @@ A token transfer cancels the vesting schedule and the remaining locked tokens ge
 > _On day 7, User A decides to sell their 50 Delta tokens while the vesting schedule is still active. This token transfer cancels the vesting schedule which sends the locked Delta to the Deep Farming Vault._
 
 The Deep Farming Vault collects all locked Delta from vesting schedule interruptions. Users are incentivized to stake rLP and Delta tokens in the vault by receiving Delta as rewards.
+
+<figure><img src="../.gitbook/assets/photo_2021-04-01_20-28-53.jpg" alt=""><figcaption></figcaption></figure>
 
 ## OVL in the ecosystem <a href="#2919" id="2919"></a>
 

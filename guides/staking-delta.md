@@ -14,7 +14,7 @@ Go to [Delta Finance](https://delta.finance/) and connect your wallet by clickin
 
 ### Navigate to the Deep Farming Vault <a href="#navigate-to-the-deep-farming-vault" id="navigate-to-the-deep-farming-vault"></a>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-01-08 135738.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-01-14 115425.png" alt=""><figcaption></figcaption></figure>
 
 On the main page click on **Vaults** to open the Deep Farming Vault page.
 

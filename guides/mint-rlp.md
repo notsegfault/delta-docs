@@ -24,7 +24,7 @@ Go to [Delta Finance](https://www.delta.finance/) and connect your wallet by cli
 
 ### Navigate to the Deep Farming Vault <a href="#navigate-to-the-deep-farming-vault" id="navigate-to-the-deep-farming-vault"></a>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-01-08 135738.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 On the main page click on **Vaults** to open the Deep Farming Vault page. Navigate to the stake and mint section of the vault and press the "**Mint rLP**" button.
 

@@ -25,6 +25,8 @@ The Deep Farming Vault has a booster for staked Delta. This booster varies from 
 
 If the booster is not maintained, it will decrease each week by 3 points. There is a one week grace period after each drop which allows the user to get back to its original booster value **** +1. Only when 10% of the principle is deposited within the grace period and using compound burn or burn deposit.
 
+<figure><img src=".gitbook/assets/photo_2022-03-09_22-31-14.jpg" alt=""><figcaption></figcaption></figure>
+
 #### **Burn Deposit:** <a href="#burn-deposit" id="burn-deposit"></a>
 
 A Burn deposit allows its user to start staking Delta with a 10x Booster. Using this mechanism, [permanently locks 50%](guides/staking-delta.md) of the deposit in the Deep Farming Vault the rest of the deposit is staked as usual.
@@ -39,7 +41,7 @@ The compound burn feature allows its user to maintain or upgrade their booster b
 
 ### Yield Rewards: <a href="#yield-rewards" id="yield-rewards"></a>
 
-The yield generated from the Deep Farming Vault comes from vesting schedule interruptions and is paid out in Delta and Ethereum. 20% of all yield is distributed in Ethereum while the remaining 80% is distributed as Delta:**Deep Farming VaultCORE ecosystemDev Fund**Burned56% Delta 5% Ethereum-5% Ethereum8% Delta 10% Ethereum16% Delta​
+The yield generated from the Deep Farming Vault comes from vesting schedule interruptions and is paid out in Delta and Ethereum. 20% of all yield is distributed in Ethereum while the remaining 80% is distributed as Delta:&#x20;
 
 | Deep Farming Vault | CORE ecosystem | Dev Fund     | Burned    |
 | ------------------ | -------------- | ------------ | --------- |
@@ -67,6 +69,8 @@ Vault deposits, rLP withdrawals and the "UNSTAKE ALL" button, automatically clai
 
 When claiming Delta rewards, a withdrawal contract is created which starts a **one year vesting cycle** for the staking rewards. Boosters for staked Delta are lost when the Delta withdrawal process is started.Delta is continuously maturing in that contract throughout the year. The user has the option to prematurely claim the Delta rewards, in this case, the immature Delta will be lost (distributed back to the Deep Farming Vault).
 
+<figure><img src=".gitbook/assets/photo_2021-04-03_05-05-42.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Withdrawal Contract: <a href="#withdrawal-contract" id="withdrawal-contract"></a>
 
 When unstaking Delta or claiming Delta rewards, a withdrawal contract is created which starts a one year vesting cycle for the staking rewards and a 14 days maturing cycle for the staked Delta.
@@ -77,3 +81,4 @@ Upon finalizing the withdrawal, the user receives:
 * Mature Delta
 
 You may withdraw your principle after 14 days.
+
